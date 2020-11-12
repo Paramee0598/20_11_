@@ -5,7 +5,7 @@
 void line() {
 	printf("\n\n");
 	printf("===============================================================================\n");
-	printf("Name\t\t\t\tNick Name\t\tAge\tWeight\n");
+	printf("Name\t\t\t\tNick Name\t\tAge\tWeight\n\n");
 	printf("===============================================================================\n");
 }
 
