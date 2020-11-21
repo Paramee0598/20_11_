@@ -31,7 +31,7 @@ int main() {
 		gets_s(I[i]._name);
 
 		if (j == i) {
-			gets_s(I[i]._name);
+			gets_s(I[i]._name); //DEBUG
 
 		}
 		j = i + 1;
